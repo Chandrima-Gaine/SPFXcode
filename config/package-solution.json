@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cg-react-app-client-side-solution",
+    "id": "6832a138-551b-4ba7-81ee-e93b7aabb3c9",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": false,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/cg-react-app.sppkg"
+  }
+}
